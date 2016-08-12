@@ -1,9 +1,8 @@
 # command
 符合日常操作的命令格式
 #　使用说明
-
 ```go get -u github.com/zhangjunfang/command
-
+```
 ```go 
 package main
 
